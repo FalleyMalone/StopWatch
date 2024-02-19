@@ -1,0 +1,37 @@
+{
+  "name": "stopwatch-v2",
+  "version": "1.0.0",
+  "description": "Remake of stopwatch",
+  "main": "node_modules/expo/AppEntry.js",
+  "repository": {
+    "type": "git",
+    "url": "StopWatchV2"
+  },
+  "keywords": [
+    "capstone"
+  ],
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~3.1.1",
+    "expo": "^50.0.4",
+    "expo-status-bar": "~1.11.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.2",
+    "react-native-paper": "^5.12.3",
+    "react-native-web": "~0.19.6",
+    "expo-constants": "~15.4.5",
+    "expo-updates": "~0.24.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "prettier": "3.2.4"
+  },
+  "author": "Brennan Malone, Pragati Rouniyar",
+  "license": "UNLICENSED"
+}
